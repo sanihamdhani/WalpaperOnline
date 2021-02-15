@@ -49,7 +49,7 @@
           <div class="carousel-caption">
             <h1>Selamat Datang.</h1>
             <h6>Di Website Walpaper Online.</h6>
-            <p><a class="btn btn-lg btn-primary" href="register.php" role="button">Join</a></p>
+            <p><a class="btn btn-lg btn-primary"  href="#myCarousel" role="button" data-bs-slide="next">Next</a></p>
           </div>
         </div>
       </div>
@@ -58,9 +58,9 @@
       
         <div class="container">
           <div class="carousel-caption">
-            <h1>About Us.</h1>
+            <h1  id="about">About Us.</h1>
             <p>Walpaper Online Adalah Flatform Penyedia Walpaper Mobile Secara Gratis Yang Berdiri Pada Tahun 2020.</p>
-            <p><a class="btn btn-lg btn-primary" href="register.php" role="button">Join</a></p>
+            <p><a class="btn btn-lg btn-primary" href="#myCarousel" role="button" data-bs-slide="next">Next</a></p>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@
       
         <div class="container">
           <div class="carousel-caption">
-            <h1>Join With Us.</h1>
+            <h1  id="join">Join With Us.</h1>
             <p>Bergabunglah Dengan Kami.</p>
             <p><a class="btn btn-lg btn-primary" href="register.php" role="button">Join</a></p>
           </div>
